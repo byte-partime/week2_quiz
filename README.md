@@ -10,7 +10,7 @@
 	   / \
 	  2   3   
 	  			both of these trees are the same
-	   1
+	    1
 	   / \
 	  2   3
 ```
@@ -46,6 +46,6 @@
 	   / \
 	  2   3
 	    \
-	 	 4
+	    4
 	 
 ```
